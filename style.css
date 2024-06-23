@@ -1,0 +1,23 @@
+body {
+  background-color: #def3ea;
+  margin: 0
+}
+
+.background_image {
+  width: 100%;
+  height: 150px;
+  background-size: cover;
+  background-position: center;
+}
+
+.background_image-top {
+  background-image: url('images/top.png');
+}
+
+.background_image-bottom {
+  background-image: url('images/bottom.png');
+}
+
+.main { 
+  min-height: calc(100vh - 150px);
+}
