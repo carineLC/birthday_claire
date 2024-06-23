@@ -28,6 +28,10 @@ body {
   font-size: 3.2rem;
 }
 
+.nobr { 
+  white-space: nowrap 
+}
+
 .background-image {
   background-size: cover;
   width: 100%;
